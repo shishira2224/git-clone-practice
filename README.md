@@ -21,5 +21,7 @@ This is a simple HTML + CSS + JS project.
 4. Push to GitHub
 5. Make a change directly in GitHub
 6. Pull updates locally
-
+###this course helps me to learn git stage and unstage
+#### modify
 Happy Learning 🚀# git-clone-practice
+hi 
